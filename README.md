@@ -7,7 +7,11 @@ The Coding Club website is a landing page for parents and children looking for a
 ## Technologies
 - HTML
 - CSS
-- Git
+- 
+Building | a table | with markdown
+--- | --- | ---
+*Italic text* | **bold text** | inline code
+42 | 400 | 97 
 
 ## Features
 1. Navigation
