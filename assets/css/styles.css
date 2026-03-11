@@ -13,5 +13,9 @@ h2 {
 }
  
 p {
-    font-style: italic; 
+    font-style: normal; 
+}
+.first-paragraf {
+    font-style: italic;
+
 }
