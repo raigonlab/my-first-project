@@ -5,7 +5,10 @@
 
 body {
     background-color:lightgrey;
-    background-image: url("../images/01-02-02_background-img.jpg")
+    background-image: url("../images/01-02-02_background-img.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
 }
 
 h2 {
